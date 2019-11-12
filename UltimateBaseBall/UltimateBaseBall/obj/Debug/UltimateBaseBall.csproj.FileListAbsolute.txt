@@ -1,0 +1,7 @@
+C:\Users\horor\source\repos\UltimateBaseBall\UltimateBaseBall\bin\Debug\UltimateBaseBall.exe.config
+C:\Users\horor\source\repos\UltimateBaseBall\UltimateBaseBall\bin\Debug\UltimateBaseBall.exe
+C:\Users\horor\source\repos\UltimateBaseBall\UltimateBaseBall\bin\Debug\UltimateBaseBall.pdb
+C:\Users\horor\source\repos\UltimateBaseBall\UltimateBaseBall\obj\Debug\UltimateBaseBall.csproj.CoreCompileInputs.cache
+C:\Users\horor\source\repos\UltimateBaseBall\UltimateBaseBall\obj\Debug\UltimateBaseBall.exe
+C:\Users\horor\source\repos\UltimateBaseBall\UltimateBaseBall\obj\Debug\UltimateBaseBall.pdb
+C:\Users\horor\source\repos\UltimateBaseBall\UltimateBaseBall\obj\Debug\UltimateBaseBall.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\horor\source\repos\ConsoleWrite2\ConsoleWrite2\bin\Debug\ConsoleWrite2.exe.config
+C:\Users\horor\source\repos\ConsoleWrite2\ConsoleWrite2\bin\Debug\ConsoleWrite2.exe
+C:\Users\horor\source\repos\ConsoleWrite2\ConsoleWrite2\bin\Debug\ConsoleWrite2.pdb
+C:\Users\horor\source\repos\ConsoleWrite2\ConsoleWrite2\obj\Debug\ConsoleWrite2.csprojResolveAssemblyReference.cache
+C:\Users\horor\source\repos\ConsoleWrite2\ConsoleWrite2\obj\Debug\ConsoleWrite2.csproj.CoreCompileInputs.cache
+C:\Users\horor\source\repos\ConsoleWrite2\ConsoleWrite2\obj\Debug\ConsoleWrite2.exe
+C:\Users\horor\source\repos\ConsoleWrite2\ConsoleWrite2\obj\Debug\ConsoleWrite2.pdb

@@ -1,0 +1,6 @@
+C:\Users\horor\source\repos\Echo\Echo\bin\Debug\Echo.exe.config
+C:\Users\horor\source\repos\Echo\Echo\bin\Debug\Echo.exe
+C:\Users\horor\source\repos\Echo\Echo\bin\Debug\Echo.pdb
+C:\Users\horor\source\repos\Echo\Echo\obj\Debug\Echo.csproj.CoreCompileInputs.cache
+C:\Users\horor\source\repos\Echo\Echo\obj\Debug\Echo.exe
+C:\Users\horor\source\repos\Echo\Echo\obj\Debug\Echo.pdb
