@@ -5,3 +5,10 @@ C:\Users\horor\source\repos\Calculator\Calculator\obj\Debug\Calculator.csprojRes
 C:\Users\horor\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
 C:\Users\horor\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
 C:\Users\horor\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\GitHub\HelloCoding_Source\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\GitHub\HelloCoding_Source\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\GitHub\HelloCoding_Source\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\GitHub\HelloCoding_Source\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+D:\GitHub\HelloCoding_Source\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\GitHub\HelloCoding_Source\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\GitHub\HelloCoding_Source\Calculator\Calculator\obj\Debug\Calculator.pdb

@@ -11,17 +11,36 @@ namespace Calculator
         static void Main(string[] args)
         {
             Console.WriteLine("첫 번째 숫자를 입력하세요.");
-            string userInput1 = Console.ReadLine();
-            double number1 = double.Parse(userInput1);
+            int number1 = int.Parse(Console.ReadLine());
+            
             Console.WriteLine("두 번째 숫자를 입력하세요.");
-            string userInput2 = Console.ReadLine();
-            double number2 = double.Parse(userInput2);
+            int number2 = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("연산자를 입력하세요");
+            string inputOperator = Console.ReadLine();
 
             Console.Write(number1);
-            Console.Write(" + ");
+            Console.Write(inputOperator);
             Console.Write(number2);
             Console.Write(" = ");
-            Console.WriteLine(number1+number2);
+            
+            if(inputOperator == "+")
+            {
+                Console.WriteLine(number1 + number2);
+            }
+            else if (inputOperator == "-")
+            {
+                Console.WriteLine(number1 - number2);
+
+            }
+            else if (inputOperator == "*")
+            {
+                Console.WriteLine(number1 * number2);
+            }
+            else if (inputOperator == "/")
+            {
+                Console.WriteLine(number1 / number2);
+            }
         }
     }
 }
