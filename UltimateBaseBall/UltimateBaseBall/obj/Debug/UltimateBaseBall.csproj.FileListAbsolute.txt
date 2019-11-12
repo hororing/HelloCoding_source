@@ -5,3 +5,10 @@ C:\Users\horor\source\repos\UltimateBaseBall\UltimateBaseBall\obj\Debug\Ultimate
 C:\Users\horor\source\repos\UltimateBaseBall\UltimateBaseBall\obj\Debug\UltimateBaseBall.exe
 C:\Users\horor\source\repos\UltimateBaseBall\UltimateBaseBall\obj\Debug\UltimateBaseBall.pdb
 C:\Users\horor\source\repos\UltimateBaseBall\UltimateBaseBall\obj\Debug\UltimateBaseBall.csprojResolveAssemblyReference.cache
+D:\GitHub\HelloCoding_Source\UltimateBaseBall\UltimateBaseBall\bin\Debug\UltimateBaseBall.exe.config
+D:\GitHub\HelloCoding_Source\UltimateBaseBall\UltimateBaseBall\bin\Debug\UltimateBaseBall.exe
+D:\GitHub\HelloCoding_Source\UltimateBaseBall\UltimateBaseBall\bin\Debug\UltimateBaseBall.pdb
+D:\GitHub\HelloCoding_Source\UltimateBaseBall\UltimateBaseBall\obj\Debug\UltimateBaseBall.csprojResolveAssemblyReference.cache
+D:\GitHub\HelloCoding_Source\UltimateBaseBall\UltimateBaseBall\obj\Debug\UltimateBaseBall.csproj.CoreCompileInputs.cache
+D:\GitHub\HelloCoding_Source\UltimateBaseBall\UltimateBaseBall\obj\Debug\UltimateBaseBall.exe
+D:\GitHub\HelloCoding_Source\UltimateBaseBall\UltimateBaseBall\obj\Debug\UltimateBaseBall.pdb
