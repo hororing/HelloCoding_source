@@ -1,7 +1,13 @@
-C:\Users\horor\source\repos\UltimateBaseBall\UltimateBaseBall\bin\Debug\UltimateBaseBall.exe.config
-C:\Users\horor\source\repos\UltimateBaseBall\UltimateBaseBall\bin\Debug\UltimateBaseBall.exe
-C:\Users\horor\source\repos\UltimateBaseBall\UltimateBaseBall\bin\Debug\UltimateBaseBall.pdb
-C:\Users\horor\source\repos\UltimateBaseBall\UltimateBaseBall\obj\Debug\UltimateBaseBall.csproj.CoreCompileInputs.cache
-C:\Users\horor\source\repos\UltimateBaseBall\UltimateBaseBall\obj\Debug\UltimateBaseBall.exe
-C:\Users\horor\source\repos\UltimateBaseBall\UltimateBaseBall\obj\Debug\UltimateBaseBall.pdb
-C:\Users\horor\source\repos\UltimateBaseBall\UltimateBaseBall\obj\Debug\UltimateBaseBall.csprojResolveAssemblyReference.cache
+C:/Users/horor/source/repos/UltimateBaseBall/UltimateBaseBall/bin/Debug/UltimateBaseBall.exe.config
+C:/Users/horor/source/repos/UltimateBaseBall/UltimateBaseBall/bin/Debug/UltimateBaseBall.exe
+C:/Users/horor/source/repos/UltimateBaseBall/UltimateBaseBall/bin/Debug/UltimateBaseBall.pdb
+C:/Users/horor/source/repos/UltimateBaseBall/UltimateBaseBall/obj/Debug/UltimateBaseBall.csproj.CoreCompileInputs.cache
+C:/Users/horor/source/repos/UltimateBaseBall/UltimateBaseBall/obj/Debug/UltimateBaseBall.exe
+C:/Users/horor/source/repos/UltimateBaseBall/UltimateBaseBall/obj/Debug/UltimateBaseBall.pdb
+C:/Users/horor/source/repos/UltimateBaseBall/UltimateBaseBall/obj/Debug/UltimateBaseBall.csprojResolveAssemblyReference.cache
+/Volumes/Macintosh - Data/Git/HelloCoding_source/UltimateBaseBall/UltimateBaseBall/bin/Debug/UltimateBaseBall.exe.config
+/Volumes/Macintosh - Data/Git/HelloCoding_source/UltimateBaseBall/UltimateBaseBall/bin/Debug/UltimateBaseBall.exe
+/Volumes/Macintosh - Data/Git/HelloCoding_source/UltimateBaseBall/UltimateBaseBall/bin/Debug/UltimateBaseBall.pdb
+/Volumes/Macintosh - Data/Git/HelloCoding_source/UltimateBaseBall/UltimateBaseBall/obj/Debug/UltimateBaseBall.csprojAssemblyReference.cache
+/Volumes/Macintosh - Data/Git/HelloCoding_source/UltimateBaseBall/UltimateBaseBall/obj/Debug/UltimateBaseBall.exe
+/Volumes/Macintosh - Data/Git/HelloCoding_source/UltimateBaseBall/UltimateBaseBall/obj/Debug/UltimateBaseBall.pdb

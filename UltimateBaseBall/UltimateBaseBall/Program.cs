@@ -23,9 +23,9 @@ namespace UltimateBaseBall
             Console.WriteLine("> 수비수가 고른 숫자");
             int number1 = 3;
             int number2 = 1;
-            int number3 = 9;
+           Console.WriteLine(number2);
+             int number3 = 9;
             Console.WriteLine(number1);
-            Console.WriteLine(number2);
             Console.WriteLine(number3);
             Console.WriteLine("> 수비수가 다시 고른 숫자");
             number1 = 8;
